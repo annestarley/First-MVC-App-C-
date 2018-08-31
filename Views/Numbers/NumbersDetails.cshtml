@@ -1,8 +1,10 @@
     @using FirstMVC.Models
     @model Numbers
 
-    <h1>Here are some numbers!</h1>
-    @foreach (int i in @Model.SomeNumbers)
-    {
-        <p>@i</p>
-    }
+    <h1 class="space-bottom">Here are some numbers!</h1>
+    <div class="outline">
+        @foreach (int i in @Model.SomeNumbers)
+        {
+            <p>@i</p>
+        }
+    </div>

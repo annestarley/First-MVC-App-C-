@@ -1,8 +1,10 @@
     @using FirstMVC.Models
     @model Users
 
-    <h1>Here are some Users!</h1>
-    @foreach (string user in @Model.SomeUsers)
-    {
-        <p>@user</p>
-    }
+    <h1 class="space-bottom">Here are some Users!</h1>
+    <div class="outline">
+        @foreach (string user in @Model.SomeUsers)
+        {
+            <p>@user</p>
+        }
+    </div>
