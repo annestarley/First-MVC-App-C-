@@ -31,3 +31,6 @@ C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\FirstMVC.dll
 C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\FirstMVC.pdb
 C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\FirstMVC.csproj.CopyComplete
 C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\User\UserDetail.g.cshtml.cs
+C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\Message\MessageDetail.g.cshtml.cs
+C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\Numbers\NumbersDetails.g.cshtml.cs
+C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\Users\UsersDetails.g.cshtml.cs

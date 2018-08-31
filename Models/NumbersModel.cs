@@ -8,9 +8,9 @@ using System.Web;
 using System.Xml.Linq;
 
 namespace FirstMVC.Models
+{
+    public class Numbers
     {
-        public class User
-    	{
-            public string Name {get;set;}
-    	}
+        public int[] SomeNumbers {get;set;}
     }
+}

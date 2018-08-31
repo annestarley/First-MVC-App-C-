@@ -13,8 +13,7 @@ namespace FirstMVC.Controllers
             // While being hard-coded here, this user instance will eventually come from our DB
             User user = new User()
             {
-                FirstName = "Devon",
-                LastName = "Newsom"
+                Name = "Moose Phillips"
             };
             // Here we pass this instance to our View
             return View(user);

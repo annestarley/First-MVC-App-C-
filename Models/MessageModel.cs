@@ -9,8 +9,8 @@ using System.Xml.Linq;
 
 namespace FirstMVC.Models
     {
-        public class User
+        public class Message
     	{
-            public string Name {get;set;}
+            public string MessageText {get;set;}
     	}
     }
