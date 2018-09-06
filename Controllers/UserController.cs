@@ -27,5 +27,12 @@ namespace FirstMVC.Controllers
         {
             return $"You gonna work?";
         }
+
+        [HttpPost("register")]
+        public IActionResult RegisterWizard(HogwartsStudent student)	// updated
+        {
+            return RedirectToAction("UserDetail", new HogwartsStudent());
+        } 
+
     }
 }

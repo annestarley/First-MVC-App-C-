@@ -28,6 +28,31 @@ h1 {
     margin-bottom: 50px
 }
 
+form {
+    margin: 60px;
+    border: 2px solid gold;
+    padding: 20px;
+    box-shadow: 2px 2px 2px black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button {
+    background: gold;
+    border: black 2px solid;
+    padding: 5px;
+    box-shadow: 4px 4px black;
+}
+
+button:hover {
+    box-shadow: 6px 6px black;
+    font-size: 1.2em;
+}
+
+button:active {
+    box-shadow: 2px 2px black;
+    font-size: .9em;
+}
+
 p {
     font-weight: bold;
     width: 500px;

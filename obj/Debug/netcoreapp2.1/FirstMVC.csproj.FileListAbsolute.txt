@@ -34,3 +34,5 @@ C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\User\UserDetail.g.csh
 C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\Message\MessageDetail.g.cshtml.cs
 C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\Numbers\NumbersDetails.g.cshtml.cs
 C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\Users\UsersDetails.g.cshtml.cs
+C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\Users\WizardRegForm.g.cshtml.cs
+C:\CodingDojo\FirstMVC\obj\Debug\netcoreapp2.1\Razor\Views\WizardRegForm\WizardRegForm.g.cshtml.cs

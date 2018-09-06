@@ -4,3 +4,19 @@
     <h1>Here is a User!</h1>
     <h1 class="space large">@Model.Name</h1>
 
+    <form action="/register" method="post">
+        <label>Your Name:</label>
+        <input type="text" name="Name">    <!-- updated -->
+        <label>House:</label>
+        <select name="House">    <!-- updated -->
+    		<option value="Gryffindor">Gryffindor</option>
+    		<option value="Ravenclaw">Ravenclaw</option>
+    		<option value="Slytherin">Slytherin</option>
+    		<option value="Hufflepuff">Hufflepuff</option>
+    	</select>
+        <label>Year:</label>
+        <input type="number" name="CurrentYear">    <!-- updated -->
+        <button>Submit</button>
+    </form>
+
+
